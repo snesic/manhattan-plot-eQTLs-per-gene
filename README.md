@@ -8,4 +8,4 @@ Sample data files are results of MatrixEQTL using the [Geuvadis](https://www.ebi
 
 
 
-![Manhattan_shiny]()
+![Manhattan_shiny](https://github.com/snesic/manhattan-plot-eQTLs-per-gene/blob/master/Data/manhattan.png)
